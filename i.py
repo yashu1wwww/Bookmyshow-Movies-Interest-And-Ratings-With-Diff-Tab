@@ -10,4 +10,4 @@ driver1.get("https://in.bookmyshow.com/login/?referer=/bengaluru/movies/vikrant-
 driver2.get("https://in.bookmyshow.com/login/?referer=/bengaluru/movies/vikrant-rona/ET00128225")
 driver3.get("https://in.bookmyshow.com/login/?referer=/bengaluru/movies/vikrant-rona/ET00128225")
 
-#add more driver you want 
+#add more driver you want Fill The Mails For One By One 👍
