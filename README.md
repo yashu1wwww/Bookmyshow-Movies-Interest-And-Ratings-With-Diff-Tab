@@ -1,6 +1,8 @@
 # Bookmyshow-Interest Button-With-Diff-Tab
 Bookmyshow Interest Button With Diff Tab or driver(It Saves Time)
 
+in proxy_service.py file in 2 line add proxy number inside to by pass location...
+
 Replace 12th Line Which Movie You Want To Auto Interest Button Hit 
 
 And 23 Line  change With How much no of tab you want
