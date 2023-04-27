@@ -1,15 +1,11 @@
 # Bookmyshow-Interest Button-With-Diff-Tab
 Bookmyshow Interest Button With Diff Tab or driver(It Saves Time)
 
-in proxy_service.py file in 2 line add proxy number inside to by pass location...
+In the 'proxy_service.py' file, add the proxy number inside the code to bypass location restrictions.
 
-Replace 12th Line Which Movie You Want To Auto Interest Button Hit 
+Replace the 12th line with the name of the movie you want the auto-interest button to hit. Also, change the 23rd line with the number of tabs you want to open. Then, enter 'pip install proxy' in the command prompt.
 
-And 23 Line  change With How much no of tab you want
-
-Then Enter Pip install Proxy in cmd
-
-Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ & Extract The File And Place To These Folder open cmd and enter  i.py or rename to your required and run. 
+Download the latest version of the Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the required folder. Open the command prompt and enter 'i.py' or rename it to your desired name and run the code
 
 👉Note:-
 
