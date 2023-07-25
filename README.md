@@ -5,6 +5,8 @@ In the 'proxy_service.py' file, add the proxy number inside the code to bypass l
 
 Replace the 12th line with the name of the movie you want the auto-interest button to hit. Also, change the 23rd line with the number of tabs you want to open. Then, enter 'pip install proxy' in the command prompt.
 
+## "If you know how to automate OTP entry, then fork it."
+
 Download the latest version of the Chrome Driver from https://chromedriver.chromium.org/ and extract the file. Place it in the required folder. Open the command prompt and enter 'i.py' or rename it to your desired name and run the code
 
 👉Note:-
