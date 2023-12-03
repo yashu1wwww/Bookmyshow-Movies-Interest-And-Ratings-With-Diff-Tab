@@ -1,5 +1,5 @@
 # Bookmyshow-Interest Button-With-Diff-Tab
-Bookmyshow Interest Button With Diff Tab or driver(It Saves Time)
+Bookmyshow Interest Button & Ratings With Diff Tab or driver(It Saves Time)
 
 In the 'proxy_service.py' file, add the proxy number inside the code to bypass location restrictions.
 
