@@ -9,7 +9,7 @@ def func(barrier):
     
     driver = webdriver.Chrome()
 
-    driver.get("https://in.bookmyshow.com/bengaluru/movies/varisu/ET00332034") #for script referal i putted one movie url change to  to your required movie url  with selecting location after paste url here
+    driver.get("https://in.bookmyshow.com") #change to  to your required movie url  with selecting location after paste url here
 
     print('wait for others')
     barrier.wait()
