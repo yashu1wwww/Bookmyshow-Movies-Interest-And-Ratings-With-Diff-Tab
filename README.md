@@ -3,8 +3,6 @@ Bookmyshow Interest Button & Ratings With Diff Tab or driver(It Saves Time)
 
 Replace the 12th line with the name of the movie you want the auto-interest button to hit. Also, change the 22nd line with the number of tabs you want to open.
 
-## "If you know how to automate OTP entry, then fork it."
-
 Download the latest version of the Chrome Driver from https://chromedriver.chromium.org/ and extract the file. 
 
 Place it in the required folder. Open the command prompt and enter 'i.py' or rename it to your desired name and run the code
