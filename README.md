@@ -1,5 +1,6 @@
 # Bookmyshow-Interest Button-With-Diff-Tab
-Bookmyshow Interest Button & Ratings With Diff Tab or driver(It Saves Time)
+
+## Bookmyshow Interest Button & Ratings With Diff Tab or driver(It Saves Time)
 
 Replace the 12th line with the name of the movie you want the auto-interest button to hit. Also, change the 22nd line with the number of tabs you want to open.
 
